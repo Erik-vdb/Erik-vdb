@@ -2,11 +2,9 @@
 
 ### I am a Junior Full-Stack Developer inclined towards Back-end development. Focused on managing and organizing the data in order to facilitate the usage and readability thereof, as well as attaining scalability and simplicity.
 
-⁜ My experience is exclusively academical. At first I signed up to the career of Audiovisual Production, where I learned to work with a team at a group project about simulating the logistic planning of a short film.
+☕ I'm currently working on my portfolio while also learning [Vue.js](vuejs.org) (I absolutely love it)
 
-⁜ After realizing that production wasn't my field, I found Henry's Bootcamp, where I spent +700hs into the world of Development. There, I was able to exploit my creativity and curiosity. I learned to make functional apps and was exposed to a learning pace I couldn't have thought possible otherwise.
-I have knowledge of [MERN](https://www.geeksforgeeks.org/mern-stack/) and [Redux Toolkit](https://redux-toolkit.js.org/)
-
+# My projects
 ## [Proyecto Final Henry](https://proyecto-final-lime-beta.vercel.app/home)
 ![image](https://user-images.githubusercontent.com/88503855/179609420-acf00db7-a888-493d-aab6-77077b759e3c.png)
 ![image](https://user-images.githubusercontent.com/88503855/179610831-e819eed2-a45a-418d-be46-4bba2c24fbe8.png)

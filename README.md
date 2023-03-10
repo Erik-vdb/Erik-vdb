@@ -9,7 +9,7 @@
 
 - 📫 You can Mail Me to **vandenerik824@gmail.com**
 
-- 📝 You can find my resume over [[Google Drive](https://drive.google.com/file/d/1QoNqwSYD2uGM9Lf3q92Isss7k-8gDc3Y/view?usp=share_link)]([Google Drive](https://drive.google.com/file/d/1QoNqwSYD2uGM9Lf3q92Isss7k-8gDc3Y/view?usp=share_link))
+- 📝 You can find my resume over [Google Drive](https://drive.google.com/file/d/1QoNqwSYD2uGM9Lf3q92Isss7k-8gDc3Y/view?usp=share_link)
 
 - ⚡ Fun fact **I might have a bit of an obsession with customization**
 
